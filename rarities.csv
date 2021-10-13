@@ -1,0 +1,64 @@
+trait,value,count,rarity
+background,Seychelles Shallow,5249,0.7775144423048437
+background,Arctic Fade,751,0.11124277884757813
+background,Atlantic Sunshine,359,0.053177307065619905
+background,Pacific Deeps,300,0.04443786105762109
+background,Caribbean Flair,83,0.012294474892608502
+background,Abyss,9,0.0013331358317286328
+deep_water_glare,None,5366,0.794845208117316
+deep_water_glare,Deep Water Shine Glare,88,0.01303510591023552
+deep_water_glare,Banana Moon Shot Glare,85,0.012590727299659309
+deep_water_glare,Shallow Deep Glare,80,0.01185009628203229
+deep_water_glare,Cool Sun Glare,78,0.011553843874981484
+deep_water_glare,Full Moon Glare,77,0.011405717671456081
+deep_water_glare,Swift Haze Glare,72,0.010665086653829063
+deep_water_glare,Circular Sun Rays Glare,72,0.010665086653829063
+deep_water_glare,Fading Fast Glare,72,0.010665086653829063
+deep_water_glare,Circular Moon Rays Glare,72,0.010665086653829063
+deep_water_glare,Indecisive Glare,71,0.01051696045030366
+deep_water_glare,Heaveny Inception Glare,70,0.010368834246778254
+deep_water_glare,Cold Comet Glare,68,0.010072581839727448
+deep_water_glare,Deep Water Flower Glare,67,0.009924455636202045
+deep_water_glare,Deep Water Moon Ray Glare,66,0.009776329432676641
+deep_water_glare,Fuzzy Glare,65,0.009628203229151236
+deep_water_glare,Radial Temptation Glare,61,0.009035698415049623
+deep_water_glare,Warm Bottom Glare,58,0.008591319804473412
+deep_water_glare,Swifty Glare,56,0.008295067397422603
+deep_water_glare,Fiery Impact Glare,55,0.0081469411938972
+deep_water_glare,Feather Glare,52,0.007702562583320989
+species,Shrimp,2586,0.3830543623166938
+species,Mudcrab,2121,0.31417567767738114
+species,Langoustine,1337,0.19804473411346468
+species,Lobster,707,0.10472522589246037
+gene,Untextured,1163,0.17227077470004443
+gene,Untextered,807,0.11953784624500075
+gene,Gradient,596,0.08828321730114057
+gene,Misty,351,0.05199229743741668
+gene,Iridescent,284,0.04206784180121464
+gene,Membrane,261,0.03866093912013035
+gene,Earth Circle 05,244,0.03614279366019849
+gene,Earth Circle 01,230,0.03406902681084284
+gene,Earth Circle 12,224,0.03318026958969041
+gene,Frosted Glass,221,0.0327358909791142
+gene,Earth Circle 10,217,0.03214338616501259
+gene,Earth Circle 06,207,0.030662124129758554
+gene,Earth Circle 08,204,0.030217745519182344
+gene,Earth Circle 04,203,0.03006961931565694
+gene,Earth Circle 11,203,0.03006961931565694
+gene,Colored Diamond,199,0.029477114501555324
+gene,Earth Circle 09,199,0.029477114501555324
+gene,Earth Circle 07,197,0.029180862094504517
+gene,Earth Circle 02,187,0.02769960005925048
+gene,Earth Circle 03,187,0.02769960005925048
+gene,Diamond,160,0.02370019256406458
+gene,Chrome,112,0.016590134794845206
+gene,Gold,60,0.008887572211524218
+gene,Neon,35,0.005184417123389127
+mood,None,6418,0.9506739742260406
+mood,Realistic,116,0.017182639608946823
+mood,Abstract,111,0.016442008591319803
+mood,Spicy,106,0.015701377573692787
+artwork,None,6524,0.9663753517997333
+artwork,Klibansky,227,0.03362464820026663
+artist_signature,None,6659,0.9863723892756628
+artist_signature,Yes,92,0.013627610724337135
